@@ -9,7 +9,7 @@ A Simple modern styled login form.
 **Your TODO:**
 - Add your KeyAuth App
 - Finish Saved Login info Functionality
-- Do whatever else
+- Fix all my shitty code
 
 **Packages Used:**
 - [GunaUI2](https://gunaui.com/)
